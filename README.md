@@ -17,12 +17,14 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Laravel Filament](https://img.shields.io/badge/-Laravel%20Filament-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-
 
 ## 📊 GitHub Statistics
 
@@ -36,4 +38,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fajar%20Yusuf%20Nur%20Cahyo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-yusuf-nur-cahyo-70276427b)
 [![Instagram](https://img.shields.io/badge/Instagram-@fjrync-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fjrync?igsh=MWtqd2QxcGVqMGtq)
-
