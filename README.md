@@ -1,8 +1,8 @@
-Hello I'm Fajar Yusuf Nur Cahyo
+**Hi there 👋 I'm Fajar Yusuf Nur Cahyo (Cahyo)**
 
-Next Project : 
+**Next Project :** 
 
-Portofolio Website
+- Portofolio Website
 
 ### Tech Stack
 
@@ -27,5 +27,8 @@ Portofolio Website
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
 
-Contact my LinkedIn : 
-https://www.linkedin.com/in/fajar-yusuf-nur-cahyo-70276427b
+**Contact my LinkedIn :** 
+**https://www.linkedin.com/in/fajar-yusuf-nur-cahyo-70276427b**
+
+**Contact my Instagram :**
+**https://www.instagram.com/fjrync?igsh=MWtqd2QxcGVqMGtq**
