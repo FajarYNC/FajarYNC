@@ -1,4 +1,9 @@
-**Hi there 👋 I'm Fajar Yusuf Nur Cahyo (Cahyo)**
+# Hi there 👋, I'm Fajar Yusuf Nur Cahyo
+
+## About Me
+- 🔭 Currently working on **Fullstack Web Development**
+- 🌱 Learning **React, Next.js, Laravel, and TailwindCSS**
+- 💬 Ask me about **Web Development & Machine Learning**
 
 **Next Project :** 
 
