@@ -5,7 +5,7 @@
 - 🌱 Learning **React, Next.js, Laravel, and TailwindCSS**
 - 💬 Ask me about **Web Development & Machine Learning**
 
-**Next Project :** 
+## Next Project
 
 - Portofolio Website
 
