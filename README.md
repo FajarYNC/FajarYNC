@@ -26,6 +26,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=white&style=flat)
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?logo=css3&logoColor=white&style=flat)
+![LiveWire](https://img.shields.io/badge/-LiveWire-4E56A6?logo=laravel&logoColor=white&style=flat)
 
 ## 📊 GitHub Statistics
 
