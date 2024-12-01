@@ -33,6 +33,8 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?logo=css3&logoColor=white&style=flat)
 ![LiveWire](https://img.shields.io/badge/-LiveWire-4E56A6?logo=laravel&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
 
 ## 📊 GitHub Statistics
 
