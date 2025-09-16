@@ -62,9 +62,8 @@
 
 ###
 
-
-
 ### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fajar%20Yusuf%20Nur%20Cahyo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-yusuf-nur-cahyo-70276427b)
 [![Instagram](https://img.shields.io/badge/Instagram-@fjrync-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fjrync?igsh=MWtqd2QxcGVqMGtq)
+
