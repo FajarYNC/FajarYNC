@@ -2,7 +2,7 @@
 
 ## Visitor Count
 
-![Visitor Count](https://img.shields.io/badge/Visitor%20Count-Real--Time%20Visitors-blue?style=for-the-badge&logo=github&logoColor=white)
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-Real--Time%20Data%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white&label=Profile%20Views&color=blue)
 
 ##
 
