@@ -50,7 +50,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?FajarYNC=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FajarYNC)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
