@@ -35,7 +35,6 @@
 ![LiveWire](https://img.shields.io/badge/-LiveWire-4E56A6?logo=laravel&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
-
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FajarYNC&show_icons=true&theme=radical)
@@ -43,6 +42,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarYNC&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/FajarYNC/count.svg)
+
+## Pac-Man Game
+![Pac-Man Game](https://your-link-to-pacman-game.gif)
 
 ### Contact Me
 
