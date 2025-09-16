@@ -1,5 +1,11 @@
 # Hi there 👋, I'm Fajar Yusuf Nur Cahyo
 
+## Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=FajarYNC)
+
+##
+
 ## About Me
 
 - 🔭 Currently working on **Fullstack Web Development**
@@ -8,7 +14,7 @@
 
 ## Next Project
 
-- Portofolio Website
+- Blockchain for Forest Fire Mitigation and Response
 
 ## Tech Stack
 
@@ -43,12 +49,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarYNC&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
-
-### Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=FajarYNC)
-
-###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FajarYNC)](https://github.com/ryo-ma/github-profile-trophy)
 
