@@ -4,7 +4,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=FajarYNC&style=for-the-badge&logo=github&logoColor=white&label=Profile%20Views&color=blue)
 
-##
 
 ## About Me
 
