@@ -50,6 +50,8 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
 
 <picture>
@@ -60,13 +62,7 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### Contact Me
 
