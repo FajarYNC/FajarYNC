@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Fajar Yusuf Nur Cahyo
 
 ## About Me
+
 - 🔭 Currently working on **Fullstack Web Development**
 - 🌱 Learning **React, Next.js, Laravel, and TailwindCSS**
 - 💬 Ask me about **Web Development & Machine Learning**
@@ -44,7 +45,10 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
 
 ### Visitor Count
+
 ![Visitor Count](https://img.shields.io/badge/Visitor%20Count-1234-brightgreen)
+
+###
 
 ###
 
