@@ -2,7 +2,7 @@
 
 ## Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=FajarYNC)
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-Real--Time%20Visitors-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ##
 
