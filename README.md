@@ -60,6 +60,14 @@
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fajar%20Yusuf%20Nur%20Cahyo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-yusuf-nur-cahyo-70276427b)
