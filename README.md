@@ -46,7 +46,7 @@
 
 ### Visitor Count
 
-![Visitor Count](https://img.shields.io/badge/Visitor%20Count-1234-brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=FajarYNC)
 
 ###
 
