@@ -44,10 +44,10 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/FajarYNC/count.svg)
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-1234-brightgreen)
 
 ## Pac-Man Game
-![Pac-Man Game](https://your-link-to-pacman-game.gif)
+![Pac-Man Game](https://i.imgur.com/yourgiffile.gif)
 
 ### Contact Me
 
