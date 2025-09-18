@@ -46,8 +46,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarYNC&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FajarYNC&theme=radical)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=FajarYNC)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
